@@ -1,6 +1,6 @@
 package com.mycompany.ukl_latihann;
 
-import java.util.Scanner;
+import java.util.Scanner;;
 
 public class bayar_kuliah {
      public static void main(String[] args) {
